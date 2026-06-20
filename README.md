@@ -70,9 +70,9 @@ MazeSolver/
 ├── tests/
 │   ├── test_maze.py
 │   └── test_solvers.py
-├── main.py
-├── README.md
 ├── LICENSE
+├── README.md
+├── main.py
 └── requirements.txt
 ```
 
